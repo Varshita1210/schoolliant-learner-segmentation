@@ -1,0 +1,4 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,f1_weighted
+LogisticRegression,1.0,1.0,1.0,1.0,1.0
+KNN,0.975,0.9778503994190269,0.9735294117647059,0.9753597617082633,0.9749576681180454
+NaiveBayes,1.0,1.0,1.0,1.0,1.0
