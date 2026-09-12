@@ -1,0 +1,401 @@
+student_id,login_frequency_per_week,avg_session_duration_min,video_completion_pct,quiz_attempts,forum_posts,weekend_activity_pct,student_name,course_name,preferred_time_slot,engagement_tier,completed_course
+S2001,1.1,26.7,29.1,2,0,53.4,Yusuf Khan,Power BI & Tableau,Morning,Low,No
+S2002,1.7,12.9,25.1,0,1,0.0,Fatima Sheikh,Data Science,Afternoon,Low,Yes
+S2003,4.9,36.5,55.4,7,4,60.4,Kashif Qureshi,Data Science,Afternoon,Medium,No
+S2004,5.2,51.8,88.8,9,14,27.5,Hina Siddiqui,SQL Mastery,Evening,High,Yes
+S2005,4.9,68.5,88.3,8,8,11.3,Ahmed Abbasi,Deep Learning Fundamentals,Night,High,Yes
+S2006,5.1,37.4,61.2,6,3,33.8,Sarah Iqbal,Business Analytics,Night,Medium,No
+S2007,4.5,47.5,61.4,3,5,48.5,Faisal Siddiqui,Python for Beginners,Night,Medium,Yes
+S2008,2.9,23.2,78.0,5,4,25.8,Sarah Rizvi,Power BI & Tableau,Afternoon,Medium,Yes
+S2009,4.6,45.5,76.9,6,9,16.9,Zoya Malik,SQL Mastery,Morning,High,Yes
+S2010,2.1,10.9,51.0,0,1,0.0,Laiba Warsi,Power BI & Tableau,Night,Low,No
+S2011,3.3,28.3,73.9,3,5,35.7,Faisal Siddiqui,Deep Learning Fundamentals,Morning,Medium,Yes
+S2012,2.9,34.5,58.4,5,1,59.9,Imran Rizvi,Data Science,Morning,Medium,Yes
+S2013,5.2,38.6,94.1,8,13,47.2,Laiba Rashid,Machine Learning,Morning,High,Yes
+S2014,3.8,11.6,65.7,3,2,46.4,Laiba Chaudhry,Business Analytics,Morning,Medium,No
+S2015,0.3,17.7,18.8,1,0,16.1,Faisal Abbasi,Python for Beginners,Evening,Low,No
+S2016,4.9,50.7,83.8,10,9,43.1,Talha Rizvi,Business Analytics,Morning,High,Yes
+S2017,2.5,40.0,53.6,3,4,13.2,Nida Farooqui,Python for Beginners,Morning,Medium,Yes
+S2018,2.9,19.6,60.2,4,2,3.1,Omar Ansari,Deep Learning Fundamentals,Morning,Medium,Yes
+S2019,3.3,40.8,71.7,3,5,11.9,Waqas Abbasi,Deep Learning Fundamentals,Morning,Medium,No
+S2020,2.7,36.0,75.5,6,4,40.1,Yusuf Khan,Power BI & Tableau,Afternoon,Medium,Yes
+S2021,4.1,26.7,62.2,6,0,36.8,Ayesha Rashid,Power BI & Tableau,Night,Medium,No
+S2022,3.9,30.3,71.1,3,4,27.2,Fatima Iqbal,Machine Learning,Night,Medium,Yes
+S2023,4.2,34.0,61.0,7,2,20.0,Mariam Chaudhry,Data Science,Evening,Medium,Yes
+S2024,4.0,25.7,59.0,7,5,34.9,Mariam Rashid,Power BI & Tableau,Evening,Medium,No
+S2025,3.6,23.4,82.6,7,3,13.6,Zainab Baig,Deep Learning Fundamentals,Morning,Medium,Yes
+S2026,1.3,19.5,44.0,0,1,5.2,Faisal Rashid,Python for Beginners,Morning,Low,Yes
+S2027,1.3,7.8,24.8,2,0,10.8,Yusuf Malik,Machine Learning,Evening,Low,No
+S2028,1.6,23.0,28.2,2,1,20.9,Laiba Qureshi,SQL Mastery,Morning,Low,No
+S2029,5.4,41.6,84.3,8,13,9.1,Ahmed Baig,Business Analytics,Morning,High,Yes
+S2030,1.3,23.6,83.5,7,0,34.9,Ahmed Abbasi,SQL Mastery,Evening,Medium,Yes
+S2031,0.6,18.9,32.7,1,0,13.4,Zainab Malik,Deep Learning Fundamentals,Evening,Low,No
+S2032,5.7,40.7,95.8,6,3,26.8,Amina Ansari,Machine Learning,Evening,High,Yes
+S2033,6.2,47.8,78.0,8,0,39.8,Iqra Chaudhry,Deep Learning Fundamentals,Afternoon,High,Yes
+S2034,5.9,54.1,96.8,7,7,34.8,Talha Hashmi,SQL Mastery,Evening,High,Yes
+S2035,0.1,13.7,34.0,3,0,16.1,Sana Hashmi,Deep Learning Fundamentals,Afternoon,Low,Yes
+S2036,6.4,63.6,91.9,9,8,9.8,Sarah Abbasi,Data Science,Night,High,Yes
+S2037,0.8,16.5,29.2,0,1,0.0,Sadia Rizvi,Power BI & Tableau,Night,Low,No
+S2038,6.0,58.4,84.0,10,7,25.4,Laiba Siddiqui,Python for Beginners,Afternoon,High,Yes
+S2039,0.6,26.2,26.7,1,0,27.4,Mahnoor Farooqui,Data Science,Morning,Low,No
+S2040,4.8,41.5,100.0,11,10,39.7,Saad Baig,Data Science,Night,High,Yes
+S2041,1.8,28.5,46.5,5,4,21.2,Adeel Khan,Deep Learning Fundamentals,Night,Medium,No
+S2042,3.5,34.9,66.8,3,2,37.4,Talha Qureshi,Deep Learning Fundamentals,Morning,Medium,Yes
+S2043,1.8,10.0,41.7,0,0,27.8,Faisal Hashmi,Python for Beginners,Morning,Low,No
+S2044,5.4,57.3,72.5,6,7,55.5,Sana Rizvi,SQL Mastery,Afternoon,High,Yes
+S2045,6.1,68.4,87.3,9,7,44.7,Sana Chaudhry,SQL Mastery,Evening,High,No
+S2046,3.3,34.5,80.1,5,0,50.1,Omar Siddiqui,Power BI & Tableau,Morning,Medium,Yes
+S2047,1.0,27.4,9.9,3,0,34.7,Kashif Khan,Machine Learning,Morning,Low,No
+S2048,3.2,35.0,68.3,7,3,0.0,Saad Chaudhry,Data Science,Morning,Medium,Yes
+S2049,3.2,37.3,74.1,4,0,27.5,Ayesha Rizvi,Python for Beginners,Evening,Medium,Yes
+S2050,4.0,40.5,38.7,3,5,29.6,Sarah Khan,Python for Beginners,Night,Medium,No
+S2051,1.5,35.8,50.0,3,1,26.2,Ayesha Abbasi,Python for Beginners,Night,Medium,No
+S2052,7.0,44.7,83.9,7,9,9.8,Imran Baig,Python for Beginners,Afternoon,High,Yes
+S2053,5.1,64.4,100.0,6,10,27.5,Hina Iqbal,Data Science,Morning,High,Yes
+S2054,2.1,7.7,44.8,1,1,11.3,Zainab Khan,Machine Learning,Night,Low,No
+S2055,0.0,15.8,39.7,1,1,6.0,Mariam Khan,Business Analytics,Evening,Low,Yes
+S2056,5.8,32.7,78.2,6,0,32.0,Waqas Sheikh,SQL Mastery,Evening,Medium,Yes
+S2057,3.6,25.1,72.9,5,5,43.6,Adeel Chaudhry,Machine Learning,Evening,Medium,No
+S2058,0.7,5.2,33.0,1,1,28.6,Amina Rashid,Power BI & Tableau,Morning,Low,No
+S2059,2.4,2.0,33.7,0,1,11.2,Bilal Malik,Python for Beginners,Afternoon,Low,No
+S2060,2.2,16.4,17.5,1,1,0.0,Omar Qureshi,Business Analytics,Morning,Low,No
+S2061,2.1,31.6,44.6,7,0,55.1,Usman Sheikh,Machine Learning,Afternoon,Medium,No
+S2062,4.5,30.1,63.1,5,1,32.2,Waqas Malik,Deep Learning Fundamentals,Night,Medium,Yes
+S2063,4.6,35.4,47.7,7,5,25.2,Mariam Rizvi,Business Analytics,Evening,Medium,Yes
+S2064,4.1,29.9,55.1,7,2,17.6,Waqas Baig,Data Science,Evening,Medium,Yes
+S2065,1.7,2.0,14.5,0,1,18.5,Omar Ansari,Data Science,Morning,Low,No
+S2066,5.7,39.8,70.7,7,3,39.9,Rayyan Rashid,SQL Mastery,Afternoon,Medium,No
+S2067,2.7,47.8,64.8,5,5,36.4,Faisal Rizvi,Business Analytics,Night,Medium,Yes
+S2068,0.3,17.8,16.2,1,1,14.8,Waqas Hashmi,Deep Learning Fundamentals,Night,Low,No
+S2069,1.7,17.7,50.9,3,1,11.6,Hamza Abbasi,SQL Mastery,Night,Low,No
+S2070,7.0,48.8,81.2,10,0,43.5,Omar Farooqui,Machine Learning,Morning,High,Yes
+S2071,5.0,53.4,93.1,11,4,42.6,Iqra Siddiqui,Deep Learning Fundamentals,Night,High,No
+S2072,1.9,3.9,34.7,1,1,23.1,Hamza Warsi,SQL Mastery,Morning,Low,Yes
+S2073,3.0,34.2,74.4,7,5,27.9,Rayyan Warsi,Deep Learning Fundamentals,Afternoon,Medium,No
+S2074,3.9,64.2,97.5,10,3,43.8,Mariam Farooqui,Power BI & Tableau,Night,High,Yes
+S2075,7.0,53.9,88.2,6,3,28.8,Usman Ansari,SQL Mastery,Morning,High,Yes
+S2076,0.5,31.8,45.1,0,1,30.2,Fatima Iqbal,Python for Beginners,Afternoon,Low,No
+S2077,4.3,27.6,68.7,5,3,15.8,Bilal Hashmi,Data Science,Evening,Medium,No
+S2078,3.2,39.7,51.9,3,5,14.7,Usman Rizvi,Machine Learning,Evening,Medium,No
+S2079,1.3,20.0,41.5,0,1,6.9,Hamza Malik,Python for Beginners,Evening,Low,Yes
+S2080,3.5,19.5,64.5,3,5,22.6,Bilal Ansari,Business Analytics,Afternoon,Medium,No
+S2081,0.8,13.8,27.9,3,0,19.3,Rayyan Malik,Python for Beginners,Morning,Low,No
+S2082,7.0,51.2,85.8,8,14,37.3,Mariam Malik,Data Science,Morning,High,Yes
+S2083,4.4,51.3,68.4,8,11,30.9,Hamza Rashid,Python for Beginners,Night,High,Yes
+S2084,4.1,70.9,80.4,9,11,39.5,Hamza Hashmi,Deep Learning Fundamentals,Night,High,No
+S2085,4.2,31.6,47.3,3,5,71.2,Talha Hashmi,Business Analytics,Morning,Medium,No
+S2086,0.6,26.8,24.8,2,0,8.5,Rabia Khan,Data Science,Evening,Low,No
+S2087,4.6,62.9,100.0,10,7,39.2,Mariam Chaudhry,Machine Learning,Night,High,Yes
+S2088,2.3,21.9,61.8,4,1,24.5,Fatima Siddiqui,Python for Beginners,Night,Medium,No
+S2089,0.0,19.1,21.1,2,0,25.2,Sadia Malik,SQL Mastery,Morning,Low,Yes
+S2090,4.4,55.4,90.6,6,6,43.6,Sadia Hashmi,Machine Learning,Night,High,Yes
+S2091,3.3,30.3,41.9,5,0,36.6,Sadia Iqbal,Business Analytics,Morning,Medium,Yes
+S2092,5.6,53.9,72.7,9,3,35.8,Saad Sheikh,Business Analytics,Afternoon,High,Yes
+S2093,3.5,36.1,79.8,6,2,17.9,Saad Warsi,Data Science,Afternoon,Medium,Yes
+S2094,2.5,36.1,60.7,5,3,27.0,Rayyan Iqbal,Data Science,Morning,Medium,Yes
+S2095,6.2,46.0,88.1,7,0,63.3,Amina Ansari,Business Analytics,Evening,High,Yes
+S2096,2.4,11.1,33.4,0,1,14.3,Nida Khan,Deep Learning Fundamentals,Evening,Low,No
+S2097,2.8,39.5,62.4,3,5,45.3,Sarah Abbasi,Business Analytics,Night,Medium,Yes
+S2098,1.0,7.7,25.9,1,0,14.4,Hamza Baig,Deep Learning Fundamentals,Afternoon,Low,Yes
+S2099,5.1,48.2,84.2,10,5,47.9,Laiba Khan,Business Analytics,Evening,High,Yes
+S2100,2.2,20.9,32.0,2,1,22.3,Yusuf Warsi,Machine Learning,Afternoon,Low,No
+S2101,2.5,31.2,71.8,6,4,17.9,Amina Rashid,Deep Learning Fundamentals,Morning,Medium,Yes
+S2102,2.4,12.4,19.6,2,0,24.2,Iqra Warsi,Business Analytics,Morning,Low,No
+S2103,7.0,54.0,84.8,8,14,24.3,Hamza Chaudhry,SQL Mastery,Evening,High,Yes
+S2104,1.6,8.3,5.7,1,0,36.1,Hamza Warsi,Python for Beginners,Evening,Low,No
+S2105,4.1,33.3,63.7,4,1,47.0,Adeel Qureshi,Machine Learning,Evening,Medium,Yes
+S2106,4.9,55.4,98.1,6,8,55.2,Nida Rashid,Deep Learning Fundamentals,Afternoon,High,Yes
+S2107,3.8,53.4,100.0,7,14,31.9,Ahmed Ansari,Business Analytics,Afternoon,High,Yes
+S2108,1.9,30.7,56.6,6,3,61.5,Saad Sheikh,SQL Mastery,Night,Medium,No
+S2109,5.6,49.6,94.5,9,4,55.1,Mariam Rashid,SQL Mastery,Afternoon,High,Yes
+S2110,2.0,23.5,40.1,2,0,13.2,Zoya Chaudhry,Deep Learning Fundamentals,Evening,Low,No
+S2111,0.9,2.0,23.7,1,0,9.8,Ahmed Ansari,SQL Mastery,Evening,Low,No
+S2112,5.1,35.1,54.2,5,0,24.2,Sarah Warsi,SQL Mastery,Night,Medium,Yes
+S2113,1.5,10.3,12.4,1,0,20.6,Yusuf Rizvi,Data Science,Night,Low,No
+S2114,0.7,17.4,40.9,0,0,16.5,Sarah Hashmi,Deep Learning Fundamentals,Night,Low,No
+S2115,4.1,31.8,57.9,6,5,42.7,Mahnoor Ansari,Deep Learning Fundamentals,Evening,Medium,Yes
+S2116,3.2,10.9,27.6,2,1,15.8,Amina Siddiqui,Business Analytics,Morning,Low,No
+S2117,5.3,57.0,75.4,8,4,69.5,Omar Chaudhry,Business Analytics,Night,High,Yes
+S2118,2.0,26.7,43.2,3,4,39.2,Adeel Siddiqui,Power BI & Tableau,Night,Medium,Yes
+S2119,0.6,21.1,39.1,1,1,0.7,Kashif Chaudhry,SQL Mastery,Night,Low,No
+S2120,4.2,24.0,55.1,5,0,37.9,Mahnoor Ansari,Data Science,Morning,Medium,Yes
+S2121,3.3,51.2,60.2,6,3,17.5,Kashif Sheikh,Machine Learning,Evening,Medium,Yes
+S2122,2.1,20.4,38.5,7,4,16.6,Hamza Siddiqui,Deep Learning Fundamentals,Evening,Medium,Yes
+S2123,2.0,14.8,52.2,4,2,27.6,Bilal Hashmi,Power BI & Tableau,Afternoon,Medium,Yes
+S2124,4.7,11.6,57.4,5,1,0.0,Kashif Siddiqui,Data Science,Night,Medium,No
+S2125,6.5,56.5,100.0,6,11,41.8,Kashif Sheikh,Python for Beginners,Night,High,No
+S2126,5.3,49.8,87.9,9,5,57.6,Zain Warsi,SQL Mastery,Night,High,Yes
+S2127,6.1,69.9,91.4,8,12,40.3,Bilal Rashid,Python for Beginners,Night,High,Yes
+S2128,3.3,49.9,71.8,4,0,28.8,Yusuf Chaudhry,SQL Mastery,Morning,Medium,No
+S2129,3.4,38.5,46.5,6,0,25.2,Rabia Chaudhry,Deep Learning Fundamentals,Night,Medium,Yes
+S2130,6.4,63.0,99.8,10,11,54.8,Waqas Iqbal,Python for Beginners,Night,High,Yes
+S2131,2.2,16.9,25.6,3,0,8.5,Mariam Qureshi,Deep Learning Fundamentals,Night,Low,No
+S2132,1.7,23.5,40.4,0,1,14.9,Mariam Chaudhry,Machine Learning,Afternoon,Low,No
+S2133,0.8,7.5,26.4,2,1,38.8,Amina Abbasi,Machine Learning,Night,Low,Yes
+S2134,2.2,39.7,54.1,4,3,1.4,Hina Warsi,Python for Beginners,Night,Medium,Yes
+S2135,2.1,33.8,50.8,3,5,30.4,Saad Siddiqui,Python for Beginners,Afternoon,Medium,No
+S2136,4.9,60.8,100.0,7,14,45.2,Hina Warsi,Machine Learning,Morning,High,No
+S2137,3.0,25.5,59.5,5,0,47.6,Usman Khan,Machine Learning,Afternoon,Medium,No
+S2138,1.8,25.3,67.6,4,3,15.8,Ahmed Malik,Deep Learning Fundamentals,Evening,Medium,Yes
+S2139,3.7,56.9,98.6,8,6,31.5,Sadia Rizvi,Data Science,Night,High,Yes
+S2140,0.8,23.6,40.5,3,1,19.0,Zainab Qureshi,Machine Learning,Evening,Low,No
+S2141,0.6,38.3,46.3,2,0,24.3,Faisal Farooqui,Machine Learning,Afternoon,Low,Yes
+S2142,2.1,18.1,23.5,2,1,0.0,Mariam Siddiqui,SQL Mastery,Evening,Low,No
+S2143,1.3,22.9,17.4,3,1,11.5,Rabia Warsi,Data Science,Afternoon,Low,No
+S2144,4.2,47.8,42.1,4,5,43.0,Omar Warsi,Data Science,Evening,Medium,Yes
+S2145,2.9,21.8,41.3,4,0,52.2,Fatima Abbasi,Machine Learning,Afternoon,Medium,Yes
+S2146,2.2,2.0,25.8,0,0,19.8,Zainab Iqbal,Machine Learning,Afternoon,Low,No
+S2147,1.8,17.7,36.9,3,0,9.3,Usman Qureshi,Machine Learning,Afternoon,Low,No
+S2148,3.5,27.5,55.3,5,4,19.3,Kashif Rizvi,Deep Learning Fundamentals,Evening,Medium,Yes
+S2149,2.2,26.9,43.2,1,1,5.6,Ahmed Baig,Machine Learning,Afternoon,Low,No
+S2150,4.5,41.0,97.6,7,8,49.5,Rabia Malik,Machine Learning,Morning,High,Yes
+S2151,2.2,45.8,53.8,6,1,7.6,Sarah Baig,Python for Beginners,Evening,Medium,No
+S2152,3.9,60.0,74.1,7,0,32.2,Usman Ansari,Deep Learning Fundamentals,Afternoon,Medium,No
+S2153,1.0,19.5,5.2,2,0,26.0,Mahnoor Qureshi,Machine Learning,Night,Low,No
+S2154,0.0,19.1,12.7,0,0,18.8,Omar Khan,Machine Learning,Afternoon,Low,Yes
+S2155,2.6,34.7,56.4,7,5,42.4,Sana Ansari,Business Analytics,Afternoon,Medium,Yes
+S2156,1.3,16.1,15.7,1,0,9.8,Ayesha Baig,Data Science,Night,Low,No
+S2157,1.0,50.9,67.0,5,4,13.9,Sadia Rizvi,Machine Learning,Morning,Medium,Yes
+S2158,0.6,23.9,52.3,1,1,18.5,Imran Abbasi,Deep Learning Fundamentals,Afternoon,Low,No
+S2159,1.7,7.7,41.4,2,0,21.5,Fatima Farooqui,Machine Learning,Morning,Low,No
+S2160,1.7,24.3,58.3,3,5,56.1,Sarah Ansari,Machine Learning,Evening,Medium,Yes
+S2161,4.3,42.3,82.7,6,3,32.4,Mariam Hashmi,Data Science,Night,Medium,No
+S2162,6.2,34.0,100.0,11,13,55.2,Sana Siddiqui,Python for Beginners,Evening,High,Yes
+S2163,1.6,13.5,55.7,3,1,7.0,Ahmed Ansari,Deep Learning Fundamentals,Afternoon,Low,Yes
+S2164,4.2,32.8,39.2,4,5,34.8,Waqas Hashmi,SQL Mastery,Afternoon,Medium,Yes
+S2165,0.2,14.0,36.8,0,0,28.9,Omar Rizvi,Power BI & Tableau,Morning,Low,No
+S2166,5.7,54.9,83.4,8,14,52.6,Saad Ansari,Power BI & Tableau,Evening,High,Yes
+S2167,1.9,6.9,19.9,2,0,0.9,Faisal Sheikh,SQL Mastery,Night,Low,No
+S2168,3.3,28.7,31.8,6,3,31.2,Bilal Baig,Power BI & Tableau,Morning,Medium,Yes
+S2169,0.0,17.0,42.2,2,0,0.0,Faisal Farooqui,Data Science,Afternoon,Low,No
+S2170,0.7,16.4,26.4,3,0,22.6,Omar Ansari,SQL Mastery,Afternoon,Low,No
+S2171,0.8,4.6,21.2,2,1,3.5,Zoya Iqbal,Deep Learning Fundamentals,Night,Low,No
+S2172,2.1,16.6,21.5,1,1,9.6,Zoya Rashid,Deep Learning Fundamentals,Afternoon,Low,No
+S2173,6.4,58.4,82.5,8,6,27.5,Hina Baig,Power BI & Tableau,Morning,High,Yes
+S2174,3.4,34.5,41.3,6,2,15.5,Nida Farooqui,Python for Beginners,Night,Medium,Yes
+S2175,2.1,28.5,39.0,1,0,25.4,Talha Farooqui,Deep Learning Fundamentals,Afternoon,Low,No
+S2176,2.9,40.8,68.3,7,2,31.9,Zainab Sheikh,Power BI & Tableau,Afternoon,Medium,No
+S2177,2.7,36.7,35.1,4,1,28.1,Laiba Ansari,Python for Beginners,Night,Medium,No
+S2178,4.6,60.6,96.3,11,13,44.7,Sarah Malik,Deep Learning Fundamentals,Night,High,Yes
+S2179,3.4,34.0,89.1,7,4,41.1,Zain Hashmi,Power BI & Tableau,Evening,Medium,Yes
+S2180,4.1,39.5,40.8,3,3,28.7,Talha Rashid,Machine Learning,Evening,Medium,No
+S2181,3.8,26.7,63.3,3,4,23.7,Saad Siddiqui,SQL Mastery,Morning,Medium,Yes
+S2182,1.1,13.0,16.2,0,1,9.7,Nida Iqbal,Deep Learning Fundamentals,Morning,Low,No
+S2183,1.6,42.5,50.7,3,0,17.7,Sadia Abbasi,Business Analytics,Evening,Medium,Yes
+S2184,4.1,26.7,42.4,5,3,18.1,Sana Siddiqui,Python for Beginners,Evening,Medium,Yes
+S2185,3.0,36.1,63.7,3,3,47.6,Ayesha Khan,Python for Beginners,Afternoon,Medium,Yes
+S2186,4.0,23.0,58.1,4,0,64.0,Mariam Iqbal,SQL Mastery,Morning,Medium,No
+S2187,3.7,23.1,72.9,6,0,49.7,Iqra Rizvi,Machine Learning,Morning,Medium,Yes
+S2188,2.1,35.5,51.1,7,4,24.1,Sarah Khan,Machine Learning,Evening,Medium,Yes
+S2189,5.1,59.8,87.3,8,6,56.1,Faisal Chaudhry,SQL Mastery,Morning,High,Yes
+S2190,4.7,56.3,76.1,8,11,39.4,Omar Warsi,Data Science,Afternoon,High,Yes
+S2191,3.5,24.7,53.2,5,5,14.3,Faisal Qureshi,SQL Mastery,Evening,Medium,Yes
+S2192,5.0,55.5,96.9,11,10,25.4,Fatima Farooqui,SQL Mastery,Morning,High,Yes
+S2193,3.4,60.1,76.0,10,3,32.9,Zoya Rashid,Python for Beginners,Afternoon,High,Yes
+S2194,5.7,47.4,88.2,9,0,32.2,Rayyan Baig,Data Science,Afternoon,High,Yes
+S2195,2.4,34.0,56.8,4,5,43.3,Rayyan Rashid,Python for Beginners,Afternoon,Medium,Yes
+S2196,1.8,23.4,69.8,3,2,31.0,Nida Qureshi,Business Analytics,Afternoon,Medium,No
+S2197,1.4,6.3,26.6,2,1,19.9,Sarah Rashid,SQL Mastery,Morning,Low,No
+S2198,1.4,17.8,31.7,3,1,2.3,Amina Rashid,Deep Learning Fundamentals,Night,Low,Yes
+S2199,3.5,34.9,50.9,5,2,41.6,Hamza Chaudhry,Python for Beginners,Morning,Medium,No
+S2200,2.1,2.0,42.1,2,1,9.0,Rayyan Iqbal,SQL Mastery,Afternoon,Low,No
+S2201,6.1,61.7,73.5,7,0,47.8,Imran Malik,Data Science,Night,High,Yes
+S2202,3.1,35.0,61.1,5,5,59.8,Adeel Siddiqui,SQL Mastery,Morning,Medium,Yes
+S2203,1.9,11.9,42.2,2,0,7.9,Zainab Qureshi,Data Science,Evening,Low,No
+S2204,0.5,29.2,31.0,0,0,16.1,Imran Abbasi,SQL Mastery,Night,Low,Yes
+S2205,3.9,37.1,68.2,7,1,28.1,Mahnoor Warsi,Business Analytics,Night,Medium,Yes
+S2206,2.6,39.2,57.5,6,5,16.4,Mariam Qureshi,Business Analytics,Evening,Medium,Yes
+S2207,4.1,30.5,57.3,3,1,7.7,Hamza Chaudhry,Machine Learning,Morning,Medium,Yes
+S2208,5.9,68.3,80.7,7,10,52.8,Yusuf Sheikh,SQL Mastery,Night,High,Yes
+S2209,4.2,42.8,66.4,7,4,19.0,Sadia Khan,Power BI & Tableau,Evening,Medium,Yes
+S2210,2.2,20.1,24.8,1,0,0.0,Zainab Khan,Business Analytics,Evening,Low,No
+S2211,3.8,21.7,76.8,7,1,10.8,Sana Rashid,Business Analytics,Afternoon,Medium,Yes
+S2212,2.1,38.5,50.5,6,0,44.3,Bilal Ansari,Machine Learning,Morning,Medium,Yes
+S2213,1.6,29.9,65.0,3,5,41.9,Talha Abbasi,Machine Learning,Night,Medium,Yes
+S2214,2.4,28.8,91.0,4,5,56.3,Rayyan Malik,SQL Mastery,Morning,Medium,No
+S2215,2.5,29.4,63.9,5,0,35.4,Sarah Rizvi,Machine Learning,Afternoon,Medium,Yes
+S2216,2.4,8.0,20.1,2,0,13.9,Kashif Sheikh,Data Science,Night,Low,No
+S2217,4.3,63.0,84.2,10,13,51.8,Mahnoor Chaudhry,Python for Beginners,Evening,High,Yes
+S2218,4.7,33.9,51.8,7,5,17.0,Bilal Malik,Python for Beginners,Morning,Medium,No
+S2219,1.6,16.2,15.2,2,1,0.0,Talha Siddiqui,Business Analytics,Evening,Low,No
+S2220,3.6,45.0,69.9,4,2,54.4,Sadia Baig,Data Science,Night,Medium,No
+S2221,4.6,45.4,97.0,9,14,39.9,Zainab Ansari,Deep Learning Fundamentals,Afternoon,High,Yes
+S2222,4.3,58.4,91.3,8,6,61.1,Kashif Warsi,Deep Learning Fundamentals,Night,High,Yes
+S2223,1.3,19.5,35.2,1,0,11.3,Zain Rashid,Power BI & Tableau,Morning,Low,Yes
+S2224,1.9,33.2,74.3,7,5,49.4,Hamza Hashmi,Power BI & Tableau,Night,Medium,Yes
+S2225,1.4,5.3,25.6,2,1,33.8,Sana Malik,SQL Mastery,Night,Low,No
+S2226,5.7,37.8,62.5,3,2,11.6,Laiba Chaudhry,Python for Beginners,Night,Medium,Yes
+S2227,0.6,18.8,30.0,3,0,7.9,Waqas Malik,Power BI & Tableau,Night,Low,No
+S2228,6.6,38.6,86.7,9,13,40.8,Bilal Siddiqui,Business Analytics,Night,High,Yes
+S2229,2.9,32.5,58.0,3,4,12.3,Mariam Rashid,Deep Learning Fundamentals,Evening,Medium,Yes
+S2230,0.8,2.5,39.4,3,1,35.3,Sadia Chaudhry,Python for Beginners,Afternoon,Low,Yes
+S2231,3.7,44.5,59.0,3,0,41.8,Omar Hashmi,Machine Learning,Afternoon,Medium,Yes
+S2232,4.7,42.5,93.4,11,5,52.3,Fatima Rashid,Power BI & Tableau,Afternoon,High,Yes
+S2233,0.0,20.0,23.6,2,0,15.3,Rayyan Farooqui,Machine Learning,Night,Low,No
+S2234,4.7,43.0,72.7,8,13,58.1,Rayyan Rashid,Business Analytics,Morning,High,Yes
+S2235,3.3,53.9,68.7,4,5,44.2,Yusuf Malik,Machine Learning,Night,Medium,Yes
+S2236,1.3,2.0,29.7,0,1,22.1,Waqas Siddiqui,SQL Mastery,Morning,Low,Yes
+S2237,4.4,52.0,90.1,9,10,35.7,Waqas Siddiqui,Python for Beginners,Evening,High,Yes
+S2238,2.3,12.2,2.6,2,0,1.9,Rabia Rashid,SQL Mastery,Morning,Low,No
+S2239,1.9,11.8,24.6,1,1,23.6,Laiba Siddiqui,Power BI & Tableau,Night,Low,No
+S2240,4.2,30.9,73.4,5,0,20.5,Talha Iqbal,Machine Learning,Afternoon,Medium,Yes
+S2241,4.3,34.3,47.7,6,5,45.3,Mariam Khan,SQL Mastery,Morning,Medium,No
+S2242,1.9,51.8,51.2,7,2,17.4,Hina Siddiqui,Python for Beginners,Night,Medium,Yes
+S2243,3.7,46.3,61.4,6,3,39.3,Mahnoor Siddiqui,Power BI & Tableau,Evening,Medium,Yes
+S2244,2.5,5.7,15.9,3,1,32.3,Mariam Rizvi,Deep Learning Fundamentals,Evening,Low,Yes
+S2245,7.0,36.0,85.2,10,5,44.4,Ayesha Farooqui,Deep Learning Fundamentals,Night,High,Yes
+S2246,2.6,36.8,77.1,7,3,30.7,Bilal Malik,Deep Learning Fundamentals,Afternoon,Medium,No
+S2247,3.3,66.7,91.2,11,10,37.6,Nida Farooqui,Deep Learning Fundamentals,Night,High,No
+S2248,3.8,49.1,68.5,6,0,35.2,Amina Hashmi,Machine Learning,Night,Medium,Yes
+S2249,0.3,23.9,8.2,3,1,15.2,Ahmed Malik,Deep Learning Fundamentals,Morning,Low,No
+S2250,5.1,45.0,88.5,6,4,36.1,Zainab Rizvi,Python for Beginners,Morning,High,Yes
+S2251,1.6,2.4,14.0,3,1,24.5,Zainab Iqbal,Data Science,Morning,Low,Yes
+S2252,4.3,43.2,86.1,6,13,65.4,Laiba Ansari,Data Science,Morning,High,Yes
+S2253,0.7,13.6,54.3,3,1,27.9,Zoya Ansari,SQL Mastery,Afternoon,Low,No
+S2254,4.1,59.1,89.7,8,13,22.3,Laiba Sheikh,Business Analytics,Afternoon,High,Yes
+S2255,3.5,47.0,73.5,7,2,31.7,Mariam Malik,Power BI & Tableau,Morning,Medium,No
+S2256,4.5,51.1,94.0,10,10,44.2,Sana Ansari,Machine Learning,Afternoon,High,Yes
+S2257,5.9,56.4,94.7,11,13,33.5,Hamza Ansari,SQL Mastery,Afternoon,High,Yes
+S2258,1.8,15.0,39.5,2,0,13.8,Laiba Ansari,Business Analytics,Morning,Low,No
+S2259,4.8,26.4,65.7,3,3,25.9,Laiba Malik,Data Science,Morning,Medium,Yes
+S2260,1.3,18.3,27.1,0,0,0.0,Mariam Rizvi,Business Analytics,Morning,Low,Yes
+S2261,3.3,42.4,73.2,7,1,48.1,Zainab Warsi,Python for Beginners,Afternoon,Medium,Yes
+S2262,0.0,29.2,40.8,0,1,0.0,Talha Malik,SQL Mastery,Afternoon,Low,No
+S2263,2.6,17.6,16.9,1,1,21.2,Laiba Warsi,Machine Learning,Morning,Low,No
+S2264,4.2,26.3,44.4,7,4,24.7,Sadia Sheikh,Data Science,Afternoon,Medium,No
+S2265,0.3,26.8,24.4,0,0,27.5,Nida Rizvi,Python for Beginners,Night,Low,No
+S2266,3.4,27.7,48.7,3,4,23.6,Zoya Rashid,Deep Learning Fundamentals,Afternoon,Medium,Yes
+S2267,1.9,29.8,80.2,4,5,4.5,Ahmed Warsi,Deep Learning Fundamentals,Afternoon,Medium,Yes
+S2268,1.2,26.0,33.7,1,1,0.9,Adeel Khan,Power BI & Tableau,Morning,Low,No
+S2269,4.4,51.0,85.4,7,6,32.5,Talha Ansari,Power BI & Tableau,Evening,High,Yes
+S2270,4.1,15.8,74.6,3,3,44.8,Rabia Baig,Data Science,Evening,Medium,Yes
+S2271,1.1,18.1,35.1,2,1,9.3,Mariam Hashmi,Deep Learning Fundamentals,Evening,Low,No
+S2272,2.0,11.5,44.7,1,1,0.0,Hamza Siddiqui,SQL Mastery,Morning,Low,No
+S2273,2.9,23.5,66.0,5,0,25.6,Sadia Rashid,Machine Learning,Night,Medium,No
+S2274,0.9,21.7,5.7,0,1,18.7,Fatima Hashmi,Python for Beginners,Evening,Low,No
+S2275,2.8,34.9,54.9,3,0,35.1,Sana Warsi,Deep Learning Fundamentals,Night,Medium,No
+S2276,5.5,46.2,72.5,6,7,69.9,Saad Rizvi,Data Science,Night,High,No
+S2277,2.4,52.3,64.0,3,2,49.7,Sadia Hashmi,Deep Learning Fundamentals,Night,Medium,Yes
+S2278,1.7,20.1,42.9,0,0,25.9,Zain Sheikh,Business Analytics,Afternoon,Low,Yes
+S2279,2.1,7.2,39.9,3,0,5.5,Zoya Hashmi,Python for Beginners,Night,Low,No
+S2280,3.5,35.2,59.3,5,3,35.6,Usman Ansari,Power BI & Tableau,Evening,Medium,Yes
+S2281,1.6,19.7,20.1,0,1,26.3,Talha Abbasi,SQL Mastery,Afternoon,Low,No
+S2282,5.1,41.1,50.9,3,0,59.6,Nida Malik,Power BI & Tableau,Afternoon,Medium,Yes
+S2283,4.6,48.0,47.0,3,2,36.1,Hina Ansari,Data Science,Afternoon,Medium,No
+S2284,3.5,19.1,48.5,5,5,55.3,Adeel Chaudhry,Machine Learning,Morning,Medium,Yes
+S2285,3.3,56.3,92.6,10,8,18.7,Kashif Sheikh,Deep Learning Fundamentals,Afternoon,High,No
+S2286,6.3,69.0,80.0,8,9,48.7,Faisal Farooqui,Python for Beginners,Night,High,Yes
+S2287,1.1,16.2,17.8,1,1,3.3,Hina Rashid,Data Science,Night,Low,No
+S2288,3.3,45.5,81.6,6,8,57.0,Omar Abbasi,Deep Learning Fundamentals,Afternoon,High,Yes
+S2289,3.9,27.4,53.9,4,1,23.0,Mahnoor Rashid,SQL Mastery,Night,Medium,Yes
+S2290,3.0,10.7,72.8,6,0,10.5,Hina Siddiqui,SQL Mastery,Afternoon,Medium,No
+S2291,0.8,21.9,14.2,3,1,13.5,Usman Iqbal,Data Science,Afternoon,Low,No
+S2292,1.1,12.7,40.9,1,0,2.0,Nida Baig,Python for Beginners,Evening,Low,No
+S2293,4.8,50.0,98.3,8,10,22.6,Amina Khan,Deep Learning Fundamentals,Night,High,Yes
+S2294,3.3,29.3,54.5,4,5,34.0,Ahmed Farooqui,Data Science,Afternoon,Medium,Yes
+S2295,3.4,40.0,61.0,7,5,15.3,Rabia Chaudhry,Power BI & Tableau,Afternoon,Medium,Yes
+S2296,4.2,51.4,78.4,6,13,45.2,Usman Malik,SQL Mastery,Afternoon,High,Yes
+S2297,1.0,61.5,51.1,3,3,24.3,Ahmed Iqbal,Python for Beginners,Evening,Medium,No
+S2298,3.7,54.3,33.9,7,1,55.8,Ahmed Sheikh,Power BI & Tableau,Afternoon,Medium,Yes
+S2299,1.6,13.9,42.8,3,0,17.5,Zain Rashid,Data Science,Afternoon,Low,No
+S2300,1.6,27.3,17.0,2,1,37.0,Nida Abbasi,Business Analytics,Evening,Low,No
+S2301,1.4,30.6,17.1,0,1,0.0,Sadia Sheikh,Deep Learning Fundamentals,Night,Low,No
+S2302,3.6,32.9,67.7,5,0,42.3,Zain Farooqui,Machine Learning,Morning,Medium,Yes
+S2303,1.6,43.2,58.2,3,1,30.7,Amina Sheikh,Data Science,Afternoon,Medium,No
+S2304,2.0,4.6,41.6,2,1,19.6,Zain Siddiqui,SQL Mastery,Evening,Low,No
+S2305,3.0,23.1,86.0,7,4,27.8,Fatima Malik,Data Science,Afternoon,Medium,Yes
+S2306,5.4,52.9,91.8,10,3,19.8,Sana Rizvi,Data Science,Night,High,Yes
+S2307,4.9,35.1,79.6,7,4,20.4,Hamza Malik,Machine Learning,Morning,Medium,No
+S2308,4.7,40.7,89.4,6,7,0.0,Iqra Hashmi,Machine Learning,Night,High,Yes
+S2309,4.4,52.4,81.3,7,13,41.9,Rabia Rizvi,Power BI & Tableau,Night,High,Yes
+S2310,3.6,41.2,53.4,7,3,27.7,Zainab Rashid,Machine Learning,Evening,Medium,Yes
+S2311,3.2,44.8,55.0,7,5,29.3,Sarah Ansari,Power BI & Tableau,Evening,Medium,Yes
+S2312,3.5,40.5,94.3,10,8,20.5,Rabia Rizvi,Power BI & Tableau,Afternoon,High,Yes
+S2313,2.6,13.5,36.3,0,0,8.8,Saad Baig,Deep Learning Fundamentals,Night,Low,No
+S2314,3.2,21.9,55.3,5,0,49.4,Talha Rizvi,Python for Beginners,Night,Medium,Yes
+S2315,0.3,20.3,27.9,2,0,0.0,Sadia Khan,Business Analytics,Night,Low,No
+S2316,5.8,44.4,85.6,9,3,37.3,Yusuf Abbasi,SQL Mastery,Evening,High,No
+S2317,0.6,13.1,36.1,1,1,16.6,Mariam Qureshi,Business Analytics,Morning,Low,No
+S2318,1.1,24.4,54.7,7,1,45.4,Sadia Rizvi,Business Analytics,Night,Medium,Yes
+S2319,3.9,31.6,51.2,3,0,28.0,Bilal Chaudhry,Machine Learning,Afternoon,Medium,Yes
+S2320,2.7,48.8,72.5,7,5,29.7,Zainab Sheikh,Python for Beginners,Night,Medium,Yes
+S2321,6.5,63.1,86.1,8,4,22.7,Mahnoor Siddiqui,Python for Beginners,Evening,High,Yes
+S2322,0.8,28.9,58.5,1,1,10.7,Usman Hashmi,Business Analytics,Morning,Low,No
+S2323,4.5,67.3,87.9,11,7,54.8,Saad Farooqui,Power BI & Tableau,Evening,High,Yes
+S2324,3.4,49.7,64.3,6,2,46.8,Zain Rizvi,Data Science,Night,Medium,No
+S2325,2.0,44.9,61.5,5,5,19.5,Usman Rizvi,Data Science,Morning,Medium,No
+S2326,2.8,33.0,63.5,4,3,26.4,Imran Siddiqui,Data Science,Afternoon,Medium,Yes
+S2327,5.3,28.6,76.9,10,6,49.0,Zoya Rizvi,Business Analytics,Morning,High,Yes
+S2328,1.2,14.2,36.3,3,1,11.6,Talha Abbasi,Deep Learning Fundamentals,Evening,Low,No
+S2329,0.1,9.7,12.3,0,1,16.0,Adeel Chaudhry,Deep Learning Fundamentals,Morning,Low,No
+S2330,2.0,15.2,22.4,2,0,36.6,Amina Khan,Data Science,Evening,Low,No
+S2331,3.3,49.0,61.0,6,5,36.0,Sarah Chaudhry,Data Science,Evening,Medium,Yes
+S2332,1.7,3.4,49.1,0,0,14.1,Sarah Farooqui,Power BI & Tableau,Morning,Low,No
+S2333,3.7,44.9,74.7,3,5,7.1,Sarah Malik,Deep Learning Fundamentals,Night,Medium,No
+S2334,2.8,31.4,51.1,3,2,31.1,Laiba Malik,Business Analytics,Morning,Medium,No
+S2335,1.9,43.1,45.0,3,1,12.3,Rayyan Chaudhry,Python for Beginners,Afternoon,Low,Yes
+S2336,3.0,40.2,59.5,6,2,44.0,Ahmed Hashmi,Python for Beginners,Night,Medium,Yes
+S2337,0.4,17.0,36.3,1,0,22.7,Kashif Rashid,Deep Learning Fundamentals,Night,Low,No
+S2338,5.2,36.0,71.1,8,4,36.2,Sadia Chaudhry,SQL Mastery,Afternoon,High,Yes
+S2339,2.1,17.4,32.9,2,0,19.1,Sarah Qureshi,SQL Mastery,Afternoon,Low,No
+S2340,5.3,69.7,64.9,9,2,21.3,Iqra Abbasi,Machine Learning,Evening,High,Yes
+S2341,4.8,55.7,86.3,9,11,61.5,Fatima Baig,Power BI & Tableau,Afternoon,High,Yes
+S2342,1.3,16.1,21.0,2,0,31.0,Yusuf Warsi,Machine Learning,Night,Low,No
+S2343,2.9,30.7,66.8,4,3,1.0,Amina Chaudhry,Machine Learning,Morning,Medium,No
+S2344,3.1,36.2,49.1,3,2,25.8,Waqas Ansari,Python for Beginners,Morning,Medium,Yes
+S2345,3.2,49.5,53.8,5,3,58.0,Kashif Farooqui,Deep Learning Fundamentals,Evening,Medium,No
+S2346,5.3,22.5,50.9,7,5,49.7,Yusuf Iqbal,Power BI & Tableau,Night,Medium,No
+S2347,5.7,56.6,100.0,10,10,30.8,Ayesha Malik,Data Science,Morning,High,Yes
+S2348,2.6,39.8,57.3,3,1,19.8,Iqra Sheikh,SQL Mastery,Evening,Medium,Yes
+S2349,3.7,53.6,64.7,7,0,47.5,Laiba Abbasi,Power BI & Tableau,Night,Medium,Yes
+S2350,3.4,37.5,45.6,6,2,27.1,Zoya Baig,Python for Beginners,Afternoon,Medium,No
+S2351,7.0,55.0,77.6,8,5,22.8,Laiba Khan,Business Analytics,Evening,High,Yes
+S2352,1.3,8.1,27.1,1,1,5.6,Zainab Siddiqui,Data Science,Evening,Low,No
+S2353,1.9,32.1,53.9,3,5,22.5,Hina Malik,Machine Learning,Evening,Medium,Yes
+S2354,4.7,27.0,52.0,3,1,25.7,Hamza Warsi,Machine Learning,Night,Medium,No
+S2355,1.3,16.9,27.7,2,1,19.8,Nida Abbasi,Python for Beginners,Afternoon,Low,No
+S2356,5.0,75.7,90.2,11,14,38.8,Imran Iqbal,SQL Mastery,Afternoon,High,Yes
+S2357,2.9,44.3,57.3,4,2,20.7,Hamza Siddiqui,Deep Learning Fundamentals,Night,Medium,Yes
+S2358,6.3,44.5,99.2,9,14,40.9,Adeel Chaudhry,Power BI & Tableau,Afternoon,High,Yes
+S2359,3.1,21.2,39.7,6,2,30.5,Faisal Qureshi,Business Analytics,Night,Medium,Yes
+S2360,2.7,48.9,68.2,5,5,17.2,Rayyan Baig,Power BI & Tableau,Evening,Medium,Yes
+S2361,3.2,22.0,54.0,5,3,44.9,Amina Malik,Machine Learning,Evening,Medium,No
+S2362,3.7,46.2,70.2,6,5,28.4,Iqra Chaudhry,Data Science,Evening,Medium,Yes
+S2363,5.8,57.0,89.6,8,10,55.7,Sana Khan,Power BI & Tableau,Evening,High,Yes
+S2364,2.2,36.7,74.2,4,0,31.5,Imran Qureshi,SQL Mastery,Night,Medium,Yes
+S2365,4.7,48.5,87.7,6,11,49.1,Sarah Hashmi,Data Science,Evening,High,Yes
+S2366,0.4,14.4,44.3,1,0,12.1,Zainab Iqbal,Data Science,Afternoon,Low,No
+S2367,3.7,41.0,42.9,4,2,22.9,Fatima Ansari,Business Analytics,Evening,Medium,Yes
+S2368,5.5,56.5,100.0,8,6,61.0,Hina Qureshi,SQL Mastery,Afternoon,High,Yes
+S2369,5.2,43.7,85.4,6,6,28.6,Iqra Siddiqui,Data Science,Morning,High,Yes
+S2370,5.6,30.8,88.1,7,8,52.3,Bilal Abbasi,SQL Mastery,Afternoon,High,Yes
+S2371,3.9,54.7,85.9,8,13,45.9,Talha Malik,Machine Learning,Afternoon,High,Yes
+S2372,0.8,9.0,8.1,1,0,0.0,Zainab Chaudhry,Data Science,Evening,Low,No
+S2373,2.8,29.5,57.4,3,0,31.5,Laiba Abbasi,SQL Mastery,Morning,Medium,No
+S2374,1.6,24.7,26.7,0,0,19.6,Usman Sheikh,Data Science,Morning,Low,No
+S2375,4.7,37.9,73.2,4,4,14.6,Rayyan Ansari,Data Science,Afternoon,Medium,Yes
+S2376,1.8,2.0,19.8,0,1,9.7,Talha Farooqui,Power BI & Tableau,Morning,Low,No
+S2377,1.0,18.0,61.5,6,1,51.1,Hamza Ansari,Machine Learning,Night,Medium,Yes
+S2378,0.5,6.1,14.0,2,0,21.5,Bilal Warsi,SQL Mastery,Evening,Low,Yes
+S2379,4.7,75.7,77.5,6,4,2.8,Zain Ansari,SQL Mastery,Evening,High,Yes
+S2380,0.3,5.4,16.9,3,1,35.2,Waqas Baig,Deep Learning Fundamentals,Evening,Low,Yes
+S2381,5.1,61.8,92.1,11,13,34.6,Rayyan Sheikh,Business Analytics,Afternoon,High,Yes
+S2382,4.7,61.3,82.8,6,8,45.7,Talha Rashid,Deep Learning Fundamentals,Evening,High,Yes
+S2383,1.9,39.9,57.6,6,0,25.0,Faisal Ansari,Deep Learning Fundamentals,Morning,Medium,Yes
+S2384,1.3,7.2,24.1,0,1,20.5,Hina Iqbal,Business Analytics,Night,Low,No
+S2385,5.6,47.5,87.5,9,13,41.0,Nida Sheikh,Power BI & Tableau,Afternoon,High,Yes
+S2386,1.5,35.4,62.6,6,1,32.6,Rayyan Warsi,Power BI & Tableau,Evening,Medium,Yes
+S2387,3.0,41.4,58.7,3,4,0.0,Imran Warsi,Business Analytics,Night,Medium,Yes
+S2388,2.1,10.9,35.2,1,0,7.9,Sarah Sheikh,Machine Learning,Afternoon,Low,No
+S2389,3.3,43.9,38.4,5,1,9.2,Kashif Abbasi,SQL Mastery,Evening,Medium,No
+S2390,6.2,21.4,92.2,10,3,31.4,Rayyan Chaudhry,Deep Learning Fundamentals,Afternoon,High,Yes
+S2391,1.4,35.9,40.3,0,0,0.0,Rabia Iqbal,Data Science,Morning,Low,No
+S2392,2.0,2.7,32.4,1,1,4.4,Rabia Warsi,Machine Learning,Morning,Low,No
+S2393,4.6,50.8,83.7,6,10,51.1,Adeel Hashmi,SQL Mastery,Afternoon,High,Yes
+S2394,1.6,3.4,26.1,1,0,16.3,Sadia Warsi,Power BI & Tableau,Evening,Low,Yes
+S2395,2.9,15.1,52.1,0,0,18.3,Zoya Sheikh,Power BI & Tableau,Morning,Low,No
+S2396,0.0,18.0,21.3,0,1,28.8,Waqas Iqbal,Machine Learning,Evening,Low,No
+S2397,1.0,8.9,50.4,0,0,13.4,Sarah Khan,Python for Beginners,Afternoon,Low,No
+S2398,6.0,66.5,92.6,8,12,47.5,Talha Sheikh,Deep Learning Fundamentals,Evening,High,Yes
+S2399,2.3,29.0,48.3,5,3,29.2,Imran Chaudhry,Data Science,Morning,Medium,Yes
+S2400,3.2,38.5,52.6,3,4,31.3,Nida Ansari,Data Science,Afternoon,Medium,Yes
