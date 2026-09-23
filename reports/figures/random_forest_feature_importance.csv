@@ -1,0 +1,18 @@
+feature,importance
+num__video_completion_pct,0.29497610341616254
+num__quiz_attempts,0.21102989280879136
+num__login_frequency_per_week,0.1671969190256881
+num__avg_session_duration_min,0.1535010390149848
+num__forum_posts,0.11457567219304014
+num__weekend_activity_pct,0.035481341249000424
+cat__preferred_time_slot_Afternoon,0.003569818340315353
+cat__preferred_time_slot_Evening,0.002465909514560545
+cat__course_name_Deep Learning Fundamentals,0.002293707816948168
+cat__course_name_SQL Mastery,0.002136198549167035
+cat__preferred_time_slot_Night,0.0021352301302777553
+cat__course_name_Business Analytics,0.002032489437375859
+cat__course_name_Python for Beginners,0.0019143323977854362
+cat__course_name_Machine Learning,0.0018826535753055753
+cat__preferred_time_slot_Morning,0.0018418838429985248
+cat__course_name_Data Science,0.0016519548120364966
+cat__course_name_Power BI & Tableau,0.0013148538755618294
