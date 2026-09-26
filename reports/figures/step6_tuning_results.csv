@@ -1,0 +1,6 @@
+model,best_cv_f1_macro,best_parameters,test_accuracy,test_precision_macro,test_recall_macro,test_f1_macro,test_f1_weighted
+LogisticRegression,0.987224000105356,"{""model__C"": 1, ""model__max_iter"": 1000, ""model__solver"": ""lbfgs""}",1.0,1.0,1.0,1.0,1.0
+KNN,0.9838808252484267,"{""model__metric"": ""euclidean"", ""model__n_neighbors"": 11, ""model__weights"": ""uniform""}",0.9375,0.9516182849516183,0.9235294117647058,0.9331994763831064,0.9361605692857353
+NaiveBayes,0.9873308231937317,"{""model__var_smoothing"": 1e-11}",0.9875,0.9904761904761905,0.9833333333333334,0.9866220735785953,0.9874303232998886
+DecisionTree,0.9608326202177977,"{""model__criterion"": ""entropy"", ""model__max_depth"": null, ""model__min_samples_leaf"": 1, ""model__min_samples_split"": 5}",0.9,0.9195906432748537,0.8957767722473604,0.90541910331384,0.9006198830409357
+RandomForest,0.9904785512349473,"{""model__max_depth"": null, ""model__max_features"": ""sqrt"", ""model__min_samples_leaf"": 1, ""model__min_samples_split"": 2, ""model__n_estimators"": 100}",1.0,1.0,1.0,1.0,1.0
