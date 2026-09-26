@@ -76,8 +76,8 @@ cluster
 1                           4.615                    47.674                78.740          7.354        6.329                39.246
 ```
 
-- Cluster 0 has relatively higher values for video_completion_pct and avg_session_duration_min, and relatively lower values for forum_posts and login_frequency_per_week.
-- Cluster 1 has relatively higher values for video_completion_pct and avg_session_duration_min, and relatively lower values for login_frequency_per_week and forum_posts.
+- Cluster 0 has relatively lower mean values across all six behavioral measures.
+- Cluster 1 has relatively higher mean values across all six behavioral measures.
 
 ## 14. PCA visualization interpretation
 The PCA plot is a two-dimensional visualization of the six-dimensional standardized feature space. The first two components explain 81.2% of variance; apparent separation in this projection should not be treated as proof that all six-dimensional clusters are objectively correct.
