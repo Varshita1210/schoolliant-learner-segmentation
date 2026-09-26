@@ -1,0 +1,23 @@
+category,item,value,notes
+dataset,raw_learner_count,405,Raw dataset rows
+dataset,final_cleaned_learner_count,400,Final documented modeling dataset
+dataset,final_column_count,12,Columns retained
+engagement_distribution,Low,129,Cleaned dataset count
+engagement_distribution,Medium,171,Cleaned dataset count
+engagement_distribution,High,100,Cleaned dataset count
+clustering,selected_k,2,Highest tested silhouette score
+clustering,k2_inertia,1242.9209738457,Silhouette 0.3815228485
+clustering,k2_silhouette,0.3815228485,Highest among K 2 through 6
+cluster_size,cluster_0,236,59.0 percent; relatively lower-activity behavioral segment
+cluster_size,cluster_1,164,41.0 percent; relatively higher-activity behavioral segment
+feature_importance,video_completion_pct,0.2949761034,Random Forest importance
+feature_importance,quiz_attempts,0.2110298928,Random Forest importance
+feature_importance,login_frequency_per_week,0.1671969190,Random Forest importance
+feature_importance,avg_session_duration_min,0.1535010390,Random Forest importance
+classification_validation,LogisticRegression_tuned_test_macro_f1,1.000000,Held-out test result
+classification_validation,RandomForest_tuned_test_macro_f1,1.000000,Best CV Macro F1 0.990479
+classification_validation,NaiveBayes_tuned_test_macro_f1,0.986622,Best CV Macro F1 0.987331
+limitation,step1_separability_report,Not preserved,Not reproduced
+limitation,step3_robustness_artifacts,Not preserved,Not reproduced
+limitation,engineered_clustering_features,Not implemented,No consistency/time-of-day/weekend-weekday features
+limitation,cluster_stability,Not evaluated,No multiple-run stability analysis
