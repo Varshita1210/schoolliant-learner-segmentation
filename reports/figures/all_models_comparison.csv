@@ -1,0 +1,6 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,f1_weighted
+LogisticRegression,1.0,1.0,1.0,1.0,1.0
+KNN,0.975,0.97785,0.973529,0.97536,0.974958
+NaiveBayes,1.0,1.0,1.0,1.0,1.0
+DecisionTree,0.9625,0.9603174603174603,0.9705882352941176,0.9641396243022259,0.9622500173719686
+RandomForest,1.0,1.0,1.0,1.0,1.0
